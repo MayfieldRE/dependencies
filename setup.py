@@ -15,7 +15,7 @@ setuptools.setup(
     packages=['mre-dependencies'],
     install_requires=[
     	'xlwings',
-      'openpyxl',
+        'openpyxl',
     	'numpy',
     	'matplotlib',
     	'pandas'
