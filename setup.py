@@ -18,6 +18,7 @@ setuptools.setup(
         'openpyxl',
     	'numpy',
     	'matplotlib',
-    	'pandas'
+    	'pandas',
+    	'pyairtable'
     ]
 )
